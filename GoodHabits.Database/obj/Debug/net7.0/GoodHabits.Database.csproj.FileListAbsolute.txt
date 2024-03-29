@@ -12,3 +12,6 @@
 /workspace/GoodHabits.Database/obj/Debug/net7.0/GoodHabits.Database.pdb
 /workspace/GoodHabits.Database/obj/Debug/net7.0/GoodHabits.Database.genruntimeconfig.cache
 /workspace/GoodHabits.Database/obj/Debug/net7.0/ref/GoodHabits.Database.dll
+C:\Users\Donkennie\Documents\KennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.dll
+C:\Users\Donkennie\Documents\KennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\refint\GoodHabits.Database.dll
+C:\Users\Donkennie\Documents\KennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.pdb
