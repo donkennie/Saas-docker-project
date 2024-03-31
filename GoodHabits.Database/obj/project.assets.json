@@ -2746,24 +2746,26 @@
     ]
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "C:\\Users\\Donkennie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspace/GoodHabits.Database/GoodHabits.Database.csproj",
+      "projectUniqueName": "C:\\Users\\Donkennie\\documents\\kennyProjects\\Saas-docker-project\\GoodHabits.Database\\GoodHabits.Database.csproj",
       "projectName": "GoodHabits.Database",
-      "projectPath": "/workspace/GoodHabits.Database/GoodHabits.Database.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/workspace/GoodHabits.Database/obj/",
+      "projectPath": "C:\\Users\\Donkennie\\documents\\kennyProjects\\Saas-docker-project\\GoodHabits.Database\\GoodHabits.Database.csproj",
+      "packagesPath": "C:\\Users\\Donkennie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Donkennie\\documents\\kennyProjects\\Saas-docker-project\\GoodHabits.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Donkennie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2827,7 +2829,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

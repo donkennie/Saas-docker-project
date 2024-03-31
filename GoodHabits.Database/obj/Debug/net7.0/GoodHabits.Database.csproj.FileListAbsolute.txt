@@ -15,3 +15,14 @@
 C:\Users\Donkennie\Documents\KennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.dll
 C:\Users\Donkennie\Documents\KennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\refint\GoodHabits.Database.dll
 C:\Users\Donkennie\Documents\KennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.pdb
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\bin\Debug\net7.0\GoodHabits.Database.deps.json
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\bin\Debug\net7.0\GoodHabits.Database.runtimeconfig.json
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\bin\Debug\net7.0\GoodHabits.Database.dll
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\bin\Debug\net7.0\GoodHabits.Database.pdb
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.csproj.AssemblyReference.cache
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.AssemblyInfoInputs.cache
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.AssemblyInfo.cs
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.csproj.CoreCompileInputs.cache
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\GoodHabits.Database.genruntimeconfig.cache
+C:\Users\Donkennie\documents\kennyProjects\Saas-docker-project\GoodHabits.Database\obj\Debug\net7.0\ref\GoodHabits.Database.dll
